@@ -14,7 +14,7 @@ public class Tests
     }
     
     [Test]
-    public void Test2()
+    public void Test()
     {
         Assert.Pass();
     }

@@ -8,7 +8,7 @@ public class Tests
     }
 
     [Test]
-    public void Test2()
+    public void Test3()
     {
         Assert.Pass();
     }

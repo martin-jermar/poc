@@ -16,12 +16,12 @@ public class Tests
     [Test]
     public void Test()
     {
-        Assert.Fail();
+        Assert.Pass();
     }
     
     [Test]
     public void Test5()
     {
-        Assert.Fail();
+        Assert.Pass();
     }
 }

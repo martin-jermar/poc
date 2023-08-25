@@ -16,18 +16,20 @@ public class Tests
     [Test]
     public void Test()
     {
-        Assert.Pass();
+        var a = "hello";
+        Assert.Fail();
     }
     
     [Test]
     public void Test5()
     {
-        Assert.Fail();
+        Assert.Pass();
     }
     
     [Test]
     public void Test53()
     {
+        var aaa = 4545;
         Assert.Pass();
     }
     

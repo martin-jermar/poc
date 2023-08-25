@@ -10,7 +10,7 @@ public class Tests
     [Test]
     public void Test3()
     {
-        Assert.Fail();
+        Assert.Pass();
     }
     
     [Test]

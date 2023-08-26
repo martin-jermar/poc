@@ -2,8 +2,8 @@
 
 public class NewClass
 {
-    public void DummyMethod(string middleName, string firstName, string lastName)
+    public void DummyMethod(string lastName, int age)
     {
-        Console.WriteLine($"{firstName} {middleName} {lastName }");
+        Console.WriteLine(lastName);
     }
 }
